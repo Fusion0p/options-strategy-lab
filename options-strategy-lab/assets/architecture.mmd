@@ -1,0 +1,12 @@
+flowchart LR
+    A[Streamlit UI] --> B[Strategy Builder]
+    A --> C[Manual Trade Simulator]
+    A --> D[Greeks Risk Engine]
+    A --> E[Analytics & Optimization]
+    B --> F[Backtesting Core]
+    C --> G[Option Snapshot Engine]
+    D --> H[Black-Scholes Greeks]
+    E --> I[Grid Search + Monte Carlo]
+    F --> J[(Market Data Layer)]
+    G --> J
+    I --> J
