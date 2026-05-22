@@ -164,3 +164,10 @@ NISM Series VIII & I Certified · CFA Level 1 Candidate
 ---
 
 *Built out of curiosity. Every line written to understand markets better, not just to pass a course.*
+<img width="1207" height="663" alt="image" src="https://github.com/user-attachments/assets/3b2c7c68-db92-4b46-99af-abc173002ee8" />
+
+<img width="1163" height="708" alt="image" src="https://github.com/user-attachments/assets/1857a395-776c-475c-ab8a-4e975da13cd9" />
+
+<img width="1222" height="706" alt="image" src="https://github.com/user-attachments/assets/bd4bac54-15b6-4afd-825c-708afb5aebe0" />
+
+
